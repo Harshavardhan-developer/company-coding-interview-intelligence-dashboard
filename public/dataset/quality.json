@@ -1,0 +1,30 @@
+{
+ "sourceFiles": 1648,
+ "rawRows": 39353,
+ "normalizedRecords": 17666,
+ "rowsMergedAcrossSourceFiles": 21687,
+ "duplicateRowsInFile": 0,
+ "companies": 656,
+ "uniqueProblems": 3358,
+ "recordsWithoutAllCsv": 25,
+ "recordsByFile": {
+  "all.csv": 17641,
+  "more-than-six-months.csv": 15691,
+  "six-months.csv": 3851,
+  "thirty-days.csv": 399,
+  "three-months.csv": 1771
+ },
+ "issues": {
+  "missingColumns": [],
+  "missingValues": 0,
+  "invalidDifficulty": 0,
+  "invalidAcceptance": 0,
+  "invalidFrequency": 0,
+  "invalidUrl": 0,
+  "invalidId": 0,
+  "duplicateRowsInFile": 0
+ },
+ "conflictingTitles": [],
+ "conflictingUrls": [],
+ "generatedFrom": "data/raw"
+}
