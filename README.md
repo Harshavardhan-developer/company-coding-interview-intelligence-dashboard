@@ -14,7 +14,7 @@
 
 ![Dashboard](docs/dashboard.png)
 
----
+-------
 
 ## Table of contents
 
